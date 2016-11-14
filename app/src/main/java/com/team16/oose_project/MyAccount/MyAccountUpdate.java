@@ -188,8 +188,3 @@ public class MyAccountUpdate extends Activity implements View.OnClickListener {
     }
 
 }
-
-
-
-
-

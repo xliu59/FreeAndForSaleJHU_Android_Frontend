@@ -1,13 +1,17 @@
 package com.team16.oose_project.MyAccount;
 
-import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.gson.Gson;
 import com.team16.oose_project.R;
 
 import org.apache.http.HttpResponse;
@@ -24,7 +28,7 @@ import java.io.InputStreamReader;
 
 
 
-public class MyAccountDisplay extends Activity {
+public class MyAccountDisplay extends AppCompatActivity {
     TextView a_username;
     TextView a_email;
     TextView a_phone;
@@ -55,6 +59,13 @@ public class MyAccountDisplay extends Activity {
         new HttpAsyncTask().execute("http://10.0.2.2:4567/login_test/MyAccount/1");
     }
 
+
+    public void updateProfile(View view) {
+        final Context context = this;
+        Intent intent = new Intent(context, MyAccountUpdate.class);
+        startActivity(intent);
+    }
+
     public static String GET(String url){
         InputStream inputStream = null;
         String result = "";
@@ -81,7 +92,6 @@ public class MyAccountDisplay extends Activity {
             Log.d("InputStream", e.getLocalizedMessage());
         }
 
-        System.out.println("result: " + result);
         return result;
     }
 
@@ -112,13 +122,14 @@ public class MyAccountDisplay extends Activity {
             // show response on the TextView
             try {
                 JSONObject json_result = new JSONObject(result);
-                a_username.setText(json_result.getString("username"));
-                a_email.setText(json_result.getString("email"));
-                a_phone.setText(json_result.getString("phone"));
-                a_address.setText(json_result.getString("address"));
-                a_zipcode.setText(json_result.getString("zipCode"));
 
-                System.out.println("username: " + a_username.toString());
+                userProfile = new Gson().fromJson(result, UserProfile.class);
+
+                a_username.setText(userProfile.getUsername());
+                a_email.setText(userProfile.getEmail());
+                a_phone.setText(userProfile.getPhone());
+                a_address.setText(userProfile.getAddress());
+                a_zipcode.setText(userProfile.getZipcode());
 
             } catch (JSONException e) {
                 e.printStackTrace();

@@ -3,39 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7af7a25a1ac47b40e2462ca4863afab484ec6cae">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e13532375ac3e5b1700bad2e1401ab458f65e3d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_09e82cd2db928833e89ddf385c5ef0df7a17a8bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_834f681863a61946a1fa3176f80d64896efac17c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_1e3e0de16018074a7df87af6e950cc4dbf6eb744/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,48 +39,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_91054d9e0d1a6861cffa94f4fe40a49200d741e0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0a5d737f97b04c1ea87feb12959dddf20701602e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a4442123dc2a3c4c24437c084f4527faa1c95886/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_527771a40d87a5f5e0be97dcf5bbb8c1f128dd27/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b4e09641f6d9f02da4316531ae4deed925f791a0/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,20 +66,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/HangBao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_94b4b3cf6f3467c0c73c9962ef0f7b6b407d558c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="be92831eae87e65233d8da585c88636f321e87e5">
+        sha1="3a1933c9a86e3c58817c0c4b06a91c79c8bc1ff2">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_262c00f2670df387901a058038d6c477e5971b39/classes.dex" />
     </item>
     <item
@@ -156,30 +84,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fb0d81ebdf4c3d65cff1e95c22d731d94fb33f34/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/HangBao/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_3fbc286128de3f42b532cad40733b5b273436aa9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -219,24 +129,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_14e370a3274eec4e742fc6b5e8d060c1972460c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_05a620275e56c2ba319180101fa6786807233627/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -250,26 +142,8 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="00bbc82baf2418478e8ca47e635f4883a24a9648">
+        sha1="ea2666dede34bc1fc7dd0fb2a9104a3f1ca57cf5">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5237e4ad076c1109ebd325cf460a642c5c50a2b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c80a13b0131aa79aa79ff2bca3565f0a94e11425/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2e5d9eb7427b4fe41de419db535847819c05aebc/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -279,15 +153,6 @@
         revision="24.0.3"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_d41d1186115558d0781e8dd5b3727c9f577582b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3782f3888c8f24d91d7ef1b1a915ec6d5a2d67f1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -318,21 +183,156 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3e000b1c1d18af2beed323a0405e6e44fa437b94/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8dc435e7f905ce836d9e91aa72c2d1b36e5508af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7af7a25a1ac47b40e2462ca4863afab484ec6cae">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e13532375ac3e5b1700bad2e1401ab458f65e3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_834f681863a61946a1fa3176f80d64896efac17c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_1e3e0de16018074a7df87af6e950cc4dbf6eb744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_91054d9e0d1a6861cffa94f4fe40a49200d741e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a4442123dc2a3c4c24437c084f4527faa1c95886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_527771a40d87a5f5e0be97dcf5bbb8c1f128dd27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b4e09641f6d9f02da4316531ae4deed925f791a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_94b4b3cf6f3467c0c73c9962ef0f7b6b407d558c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fb0d81ebdf4c3d65cff1e95c22d731d94fb33f34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_14e370a3274eec4e742fc6b5e8d060c1972460c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_05a620275e56c2ba319180101fa6786807233627/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c80a13b0131aa79aa79ff2bca3565f0a94e11425/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2e5d9eb7427b4fe41de419db535847819c05aebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3782f3888c8f24d91d7ef1b1a915ec6d5a2d67f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3e000b1c1d18af2beed323a0405e6e44fa437b94/classes.dex" />
     </item>
 
 </items>

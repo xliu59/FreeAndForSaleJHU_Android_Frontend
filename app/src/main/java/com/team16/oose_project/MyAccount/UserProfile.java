@@ -66,5 +66,3 @@ public class UserProfile {
         this.zipcode = zipcode;
     }
 }
-
-
