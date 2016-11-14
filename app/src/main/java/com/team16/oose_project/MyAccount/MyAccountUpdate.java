@@ -133,7 +133,7 @@ public class MyAccountUpdate extends Activity implements View.OnClickListener {
                 userProfile.setState(a_state.getText().toString());
                 userProfile.setZipcode(a_zipcode.getText().toString());
 
-                new HttpAsyncTask(userProfile).execute("http://10.0.2.2:8080/login_test/MyAccount/AccountModify/1");
+                new HttpAsyncTask(userProfile).execute("http://10.0.2.2:4567/login_test/MyAccount/AccountModify/1");
                 break;
         }
 
