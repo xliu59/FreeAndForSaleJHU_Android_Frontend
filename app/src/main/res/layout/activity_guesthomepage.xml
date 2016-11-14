@@ -94,7 +94,8 @@
         android:layout_toEndOf="@+id/wishesButton"
         android:id="@+id/meButton"
         android:textColor="@android:color/background_light"
-        android:background="@android:color/holo_blue_bright" />
+        android:background="@android:color/holo_blue_bright"
+        android:onClick="ViewProfile"/>
 
     <ImageButton
         android:layout_width="175dp"

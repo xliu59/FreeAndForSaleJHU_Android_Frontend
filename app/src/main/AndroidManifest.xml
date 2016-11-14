@@ -11,13 +11,12 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-
         <activity android:name=".core.GuestHomePage">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity android:name=".registration.email.EmailRegistration" />
         <activity android:name=".registration.email.SuccessfulEmailRegistration" />
@@ -26,9 +25,11 @@
         <activity android:name=".registration.password.PasswordSetup" />
         <activity android:name=".registration.password.SuccessfulPasswordSetup" />
         <activity android:name=".registration.email.EmailCodeVerification" />
-        <activity android:name=".registration.phone.PhoneCodeVerification"/>
-        <activity android:name=".login.Login"/>
-
+        <activity android:name=".registration.phone.PhoneCodeVerification" />
+        <activity android:name=".login.Login" />
+        <activity android:name=".items.ItemList" />
+        <activity android:name=".MyAccount.MyAccountUpdate" />
+        <activity android:name=".MyAccount.MyAccountDisplay"></activity>
     </application>
 
 </manifest>

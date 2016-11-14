@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7d79d4cbce4aeff34dd57c6d5f84049ded408304">
+        sha1="be92831eae87e65233d8da585c88636f321e87e5">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_262c00f2670df387901a058038d6c477e5971b39/classes.dex" />
     </item>
     <item
@@ -162,6 +162,24 @@
         revision="24.0.3"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version4/Archive/OOSE-Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fb0d81ebdf4c3d65cff1e95c22d731d94fb33f34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_3fbc286128de3f42b532cad40733b5b273436aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -255,6 +273,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/HangBao/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_d41d1186115558d0781e8dd5b3727c9f577582b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -270,6 +297,15 @@
         revision="24.0.3"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_3608ed536140e0f2b97fe8d88345deb65fdab46f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HangBao/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_2b5cb02b1b98fec7601d33ec946227f4cae9ec5c/classes.dex" />
     </item>
     <item
         is-multidex="true"
