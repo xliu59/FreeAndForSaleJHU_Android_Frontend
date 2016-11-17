@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="3a1933c9a86e3c58817c0c4b06a91c79c8bc1ff2">
+        sha1="f4c144cff24016635b342c7fcfab65162e15945e">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_262c00f2670df387901a058038d6c477e5971b39/classes.dex" />
     </item>
     <item
@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="ea2666dede34bc1fc7dd0fb2a9104a3f1ca57cf5">
+        sha1="756e7dddcc310453e59b0bce171143a634cd104d">
         <dex dex="/Users/HangBao/Documents/2016fall/OOSE/project/iteration4/help_sesion/version5/OOSE_Frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5237e4ad076c1109ebd325cf460a642c5c50a2b5/classes.dex" />
     </item>
     <item

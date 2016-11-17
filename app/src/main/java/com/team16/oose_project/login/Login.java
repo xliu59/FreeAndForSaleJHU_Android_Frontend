@@ -36,6 +36,7 @@ public class Login extends AppCompatActivity {
     }
 
     private void analyzeResult(String loginEmailResult) {
+        Log.d("login", loginEmailResult);
 
         if (loginEmailResult.equals(LoginConstant.LOGIN_FAIL)) {
             Toast.makeText(this, LoginConstant.LOGIN_FAIL_MSG,
