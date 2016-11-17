@@ -17,6 +17,7 @@ import com.team16.oose_project.registration.email.EmailRegistration;
 
 public class GuestHomePage extends AppCompatActivity {
 
+    //hahahaha
     Button meButton;
 
     @Override
